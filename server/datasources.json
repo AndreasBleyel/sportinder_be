@@ -1,0 +1,12 @@
+{
+  "sportinder": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "sportinder",
+    "password": "root",
+    "name": "sportinder",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

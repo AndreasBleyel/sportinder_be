@@ -1,0 +1,40 @@
+{
+  "name": "activity",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "creator": {
+      "type": "string",
+      "required": true
+    },
+    "startingtime": {
+      "type": "date",
+      "required": true
+    },
+    "difficulty": {
+      "type": "string"
+    },
+    "duration": {
+      "type": "number"
+    },
+    "startingadr": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
