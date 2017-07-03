@@ -19,7 +19,7 @@
       "required": true
     },
     "startingtime": {
-      "type": "date",
+      "type": "string",
       "required": true
     },
     "difficulty": {
