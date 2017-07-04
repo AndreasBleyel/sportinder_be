@@ -19,7 +19,7 @@
       "required": true
     },
     "startingtime": {
-      "type": "date",
+      "type": "string",
       "required": true
     },
     "difficulty": {
@@ -29,6 +29,14 @@
       "type": "number"
     },
     "startingadr": {
+      "type": "string",
+      "required": true
+    },
+	"long": {
+      "type": "string",
+      "required": true
+    },
+	"lat": {
       "type": "string",
       "required": true
     }
