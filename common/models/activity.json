@@ -39,6 +39,10 @@
 	"lat": {
       "type": "string",
       "required": true
+    },
+    "subscribers":{
+      "type": "number",
+      "required": true
     }
   },
   "validations": [],
