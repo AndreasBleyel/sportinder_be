@@ -1,5 +1,10 @@
-# Loopback Backend für unsere SporTinder Single Page App
+# Loopback Backend 
 
+> Backend für unsere SporTinder Vue.js App
+
+## Build Setup
+
+``` bash
 # Install LoopBack
 npm install -g loopback-cli
 
@@ -11,3 +16,5 @@ npm install -g loopback-cli
 node .
 
 # do not forget to start your local servers (XAMPP etc.)
+
+```
